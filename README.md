@@ -1,7 +1,7 @@
 # persondetails
 Simple SpringBoot Application
-#rest api	to store person details in a csv file
-   #api to post indivisual user detail 
+#rest apito store person details in a csv file
+   #api to post individual user detail 
    ->http://localhost:8080/addPerson
   #sample data:
   
@@ -22,7 +22,7 @@ Simple SpringBoot Application
 
   },
   {
-    "name": "Akber",
+    "name": "Akbar",
     "dateOfBirth": "1980-01-01",
     "place": "Chennai"
 
